@@ -1,1 +1,13 @@
-
+<html>
+    <head>
+        <style>
+            h1 {
+                background-color: blue;
+                display: block;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>This is Display Attribute</h1>
+    </body>
+</html>
